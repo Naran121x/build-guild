@@ -81,9 +81,9 @@ where teens get funded to build real hardware projects.
 
 ## 👾 Organizers
 
-| Name        | GitHub / Contact   |
-|-------------|--------------------|
-| Naran121x   | [@Naran121x](https://github.com/Naran121x) |
+| Organization               | Contact                               |
+|----------------------------|---------------------------------------|
+|  Valmiki Shiksha Sadan     | https://www.facebook.com/vsspgplustwo |
 
 ---
 
